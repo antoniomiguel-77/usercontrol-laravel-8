@@ -1,0 +1,24 @@
+#operation{
+    display: flex;
+    justify-content: space-around;
+}
+#display{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.photo{
+    width: 100px;
+}
+
+.shows{
+  display:flex ;
+  justify-content: center;
+  align-items: center;
+  padding: 5rem;
+
+}
+.show > div {
+    width: 1200px;
+}
+ 
